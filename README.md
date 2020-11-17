@@ -1,7 +1,9 @@
 # Study_Nodes
 含分布式，数据模型，Flink实时计算，Elasticsearch搜索,Redis缓存，消息队列，java等一系列主流框架学习笔记分享
 （持续更新中...）
-注：密码统一为：ljg 
+
+## 注：密码统一为：ljg 
+
 （链接如有失效，请联系我vx更新：lorettaxljg0307）
 
 大数据学习笔记（Flink,Spark，算法）
