@@ -1,10 +1,16 @@
 # Study_Nodes （持续更新中...）
 主题包含：
+
   1.基础研究
+  
   2.JVM平台、代码设计和多线程探索
+  
   3.分布式领域
+  
   4.数据建设领域
+  
   5.组件学习域（Flink实时计算，Elasticsearch搜索,Redis缓存，消息队列，java等一系列主流框架学习笔记分享
+  
   6.组件建设领域（实操）（待更新）
   
 
@@ -37,11 +43,17 @@
 
   偏分布式指标衡量笔记
   https://www.processon.com/view/link/60c02bb0e0b34d0950a7dae2
+  
+  分布式算法与数据结构：
+  https://www.processon.com/view/link/60c02f2c1e085324f36e2fcd
 
 ## 4.数据建设篇
 
   数据模型笔记：
-  https://www.processon.com/view/link/5fa148f6f346fb4416707472
+  https://www.processon.com/view/link/60c02d63e401fd34a14a5091
+  
+  数据建模：
+  https://www.processon.com/view/link/5fc2efb36376895e9ae5f237
   
   数据中台建设：（偏业务）
   https://www.processon.com/view/link/60c02512637689502ff2e3ad
@@ -54,9 +66,15 @@
   Yarn作图案例笔记：
   https://www.processon.com/view/link/5ea82d8ae0b34d05e1b64af6
 
-  大数据学习笔记（Flink,Spark，算法）
-  https://www.processon.com/view/link/5f50f40b63768959e2d29672
-
+  flink学习笔记（实时计算）
+  https://www.processon.com/view/link/60c030361efad42c65997f99
+  
+  spark学习笔记：
+  https://www.processon.com/view/link/60c0307f0791297a3f08450b
+  
+  Spark作图案例笔记：
+  https://www.processon.com/view/link/5ea64ffa5653bb6efc702558
+  
   Redis学习笔记
   https://www.processon.com/view/link/5f8712701e085307a08bc8a2
 
@@ -66,18 +84,17 @@
   Spring核心特性
   https://www.processon.com/view/link/5fa73c02e0b34d7a1a9cb791
 
-  Spark作图案例笔记：
-  https://www.processon.com/view/link/5ea64ffa5653bb6efc702558
 
   Hadoop作图案例笔记：
   https://www.processon.com/view/link/5ea4fdcde0b34d05e1addb15
 
-  Kafka及消息队列设计作图笔记：
+  Kafka及消息队列简单笔记： 
   https://www.processon.com/view/link/5eaf928d6376897466a30149
-  https://www.processon.com/view/link/5fa14a065653bb57ffac2ad0
 
   java学习笔记（含网络等）
   https://www.processon.com/view/link/5fa14a065653bb57ffac2ad0
 
 
 ## 6.组件建设领域（实操）（待更新）
+分布式数据库
+流计算
