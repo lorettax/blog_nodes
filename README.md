@@ -48,6 +48,9 @@
   https://www.processon.com/view/link/60c02f2c1e085324f36e2fcd
   
   paper拓展：
+  MapReduce中文版：链接：https://pan.baidu.com/s/1POpqmqr28MfM44ET7z87WA 提取码：xpty 
+  MapReduce中文版：链接：https://pan.baidu.com/s/10M4SLf5InqEO0tXt0S7i-g 提取码：rsf2 
+    
   
 
 ## 4.数据建设篇
