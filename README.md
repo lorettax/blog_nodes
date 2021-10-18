@@ -16,7 +16,7 @@
 ### 注：如果有链接有密码，统一为：ljg  （链接如有失效，请联系我vx更新：lorettaxljg0307）
 ### 如果觉得不错，请别忘了点一个star呀
 
-## 1.基础探索篇：
+## 1.基础篇：
 
   操作系统：
   https://www.processon.com/view/link/5fedbfb77d9c0863d3022932
@@ -27,7 +27,7 @@
   网络协议：
   https://www.processon.com/view/link/60c0253f5653bb7a3233caf6
 
-## 2.JVM平台及多线程探索：
+## 2.JVM平台及多线程：
 
   JVM原理及调优笔记
   https://www.processon.com/view/link/5fa1439f1e08534d5563920c
@@ -54,7 +54,7 @@
     
   
 
-## 4.数据建设篇
+## 4.数据建设
 
   数据模型笔记：
   https://www.processon.com/view/link/60c02d63e401fd34a14a5091
@@ -65,7 +65,7 @@
   数据中台建设：（偏业务）
   https://www.processon.com/view/link/60c02512637689502ff2e3ad
 
-## 5.组件学习篇
+## 5.中间件
 
    数据库（MySQL）:
    https://www.processon.com/view/link/5f0effe36376895d7fb10b22
